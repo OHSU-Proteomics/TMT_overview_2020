@@ -21,9 +21,9 @@ Here is a schematic of the 10/11-plex TMT tag. A N-terminus or lysine attaches t
 
 ***
 
-*Slide 3* <br />
 ![slide 3](images/Slide3.PNG)
 
+*Slide 3* <br />
 In the PSR core we use a SPS-MS3 method to analyze our TMT samples. In the first stage of MS, precursors are detected in the orbitrap. After meeting certain selection criteria, the precursor is fragmented by collision induced dissociation (CID) in the ion trap (IT, in MS2), producing product ions. The b ions are always TMT tagged, and the y-ions are only TMT tagged if the C-terminal residue is lysine. From there, the top 10 ions are sent to the ion routing multipole (IRM) where they undergo higher energy collisional dissociation (HCD), which fragments the TMT tag releasing the reporter ions into the orbitrap for eventual detection.
 
 ***
