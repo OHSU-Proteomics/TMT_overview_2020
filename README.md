@@ -2,7 +2,7 @@
 ### General overview of performing tandem mass tags (TMT) quantitative proteomics experiments.
 
 ### prepared by Jennifer Cunliffe
-### OHSU Proteomics Shared Resource
+### [OHSU Proteomics Shared Resource](https://www.ohsu.edu/proteomics-shared-resource)
 ### April 21, 2020
 
 ***
@@ -78,3 +78,5 @@ A major advantage of the 16-plex over the 10/11-plex is the opportunity to compa
 ***
 
 Thank you!
+
+Please contact the [OHSU PSR](https://www.ohsu.edu/proteomics-shared-resource) with any questions.
